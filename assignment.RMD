@@ -1,4 +1,4 @@
-Practical Machine Learning - perr review
+Practical Machine Learning - peer review
 ==========================================================
 
 For the need of this assignment we wneel to analyze data determine what activity an individual perform.
